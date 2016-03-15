@@ -1,0 +1,34 @@
+/** forum::index **/
+.fl {border:0px solid {WRAPBORDERCOLOR};border-top:none;background:none;}
+.fl .bm {border:1px solid {WRAPBORDERCOLOR};margin-bottom:8px;padding:1px;}
+.fl .bm_h{border-top:0px solid {WRAPBORDERCOLOR};}
+.fl_icn_g {width:50px;}
+#category_grid {border-top:none;}
+#category_grid h4 {background:#fff url({STYLEIMGDIR}/titlebg.png) repeat-x;border-bottom:1px solid {WRAPBORDERCOLOR};}
+#category_grid h4 span { background:#ddd;}
+.temp {margin: 0;}
+/** end **/
+/** forum::forumdisplay **/
+.mlt li {border-color:{WRAPBORDERCOLOR};}
+#f_pst {margin-bottom:0px;}
+#f_pst .bm_h{border-left:1px solid #FFFFFF;border-right:1px solid #FFFFFF;}
+.bdl {background-color: #F8F8F8;border: 1px solid {WRAPBORDERCOLOR};}
+.bdl dd.bdl_a a {background-color: #f8f8f8;}
+.bdl dt {border-color:#E3E3E3;}
+.tl th em, .tl th em a, .tl th em a:link, .tl th em a:visited, .tl th em a:active, .tl th em a:hover {color:{HIGHLIGHTLINK};font-size:14px;}
+.boardnav .bml .bm_h {background:#fff url({STYLEIMGDIR}/portalbox_bg.gif) repeat-x;padding-left:10px;}
+#autopbn {border-color:{COMMONBORDER};}
+#livethread {background:#F9F9F9;border-top: 2px solid #e60000;}
+#livereplycontentout,#livefastcomment {border:1px solid #e3e3e3}
+/** end **/
+/** group::viewthread,forum::viewthread **/
+.pgbtn a.bm_h {height:31px;line-height:31px;border-color:{COMMONBORDER};}
+.pgbtn a.bm_h:hover {background:#fff;border-color:{COMMONBORDER};}
+.ts,.ts a{color:#d10000;}
+/** end **/
+/** misc::ranklist **/
+.bid {padding-right:0px;margin-top:2px;margin-left:1px;}
+/** end **/
+/** portal **/
+.block {margin:0;}
+/** end **/
